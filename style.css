@@ -1,0 +1,17 @@
+body{
+  display: flex;
+}
+
+div{
+  border: 1px solid black;
+  width:250px;
+  height:150px;
+  margin:auto; 
+  
+}
+
+div p{
+  text-align: center;
+  
+}
+
